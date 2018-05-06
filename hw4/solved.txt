@@ -1,0 +1,17 @@
+1-ParamRegs: MWFlNDlh
+2-ParamStack: YzM2ZGEz
+3-StaticInt: 64456
+4-StaticStrcmp: qeDzVxRO
+5-2DArrays: 839082
+6-Structs: 435
+7-CanaryBypass: 104 40069d
+8-HijackPLT: 0x4a789050 0x4a587b6d
+9-SegvBacktrace: YWFlNWE1
+10-StackSmash: AAAAAAAAAAAAAAAAAAAAAAAAmxXh
+
+Extra ones:
+11-TwosCompliment: -521
+12-FloatConvert: 0x47469c00 57013
+13-Fnpointer: 0x6b4f6832
+14-AsciiInster: 7dAQYgLA
+15-GdbPractice: YTQzMjdi 

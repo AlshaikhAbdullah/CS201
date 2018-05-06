@@ -1,0 +1,5 @@
+abc def ghi
+This line will be truncated.
+12345678901234567890
+shortest
+Another long line ... ...
